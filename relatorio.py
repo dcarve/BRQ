@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 17 21:19:10 2021
-
-@author: daniel carvalho
-"""
-
-
-
 import pandas as pd
 import sqlite3
 
