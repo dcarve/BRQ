@@ -31,7 +31,7 @@ id integer primary key,
 descricao varchar(150) not null,
 orcamento float,
 completo float,
-aceito smallint,
+aceito tinyint,
 projeto_id integer
 );
 
