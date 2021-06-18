@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 
-
+#não existir um arquivo BRQ.db,  ele será criado automaticamente
 con_sql  = sqlite3.connect('BRQ.db')
 
 
