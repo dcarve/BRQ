@@ -1,1 +1,3 @@
 # BRQ
+
+## Explicação da Solução
